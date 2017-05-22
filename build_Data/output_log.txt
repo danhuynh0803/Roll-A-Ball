@@ -1,0 +1,22 @@
+Initialize engine version: 5.3.5f1 (960ebf59018a)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 770 (ID=0x1184)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: E:\Repositories\B0\Roll-A-Ball\Roll-A-Ball\build_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading E:\Repositories\B0\Roll-A-Ball\Roll-A-Ball\build_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: E:\Repositories\B0\Roll-A-Ball\Roll-A-Ball\build_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading E:\Repositories\B0\Roll-A-Ball\Roll-A-Ball\build_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: E:\Repositories\B0\Roll-A-Ball\Roll-A-Ball\build_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading E:\Repositories\B0\Roll-A-Ball\Roll-A-Ball\build_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: E:\Repositories\B0\Roll-A-Ball\Roll-A-Ball\build_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading E:\Repositories\B0\Roll-A-Ball\Roll-A-Ball\build_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.043 seconds
+Platform assembly: E:\Repositories\B0\Roll-A-Ball\Roll-A-Ball\build_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: E:\Repositories\B0\Roll-A-Ball\Roll-A-Ball\build_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 3840x1083 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
